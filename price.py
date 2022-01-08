@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import smtplib
 import time
 
-
+print("hello world")
 desired_price=int(input("enter the desired amount: "))
 parsing_time=int(input("enter time gap between your search"))
 
